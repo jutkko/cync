@@ -4,7 +4,7 @@
 ## Why should I use it
 It is versatile in the sense that it supports multiple types of scenarios. 
   1. Flexible. Allows the user to freely define what the worker function should do
-  1. Simple to use. Examples coming soon.
+  1. Simple to use. Examples coming soon
 
 ## It it reliable?
 Fully tested. Also ran used in backend services in real world production environments.
